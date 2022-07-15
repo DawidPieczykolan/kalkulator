@@ -4,7 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/dawid/AndroidStudioProjects/kalkulator/app/src/main/res/drawable/gradient_background.xml" value="0.1925" />
-        <entry key="..\:/Users/dawid/AndroidStudioProjects/kalkulator/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/dawid/AndroidStudioProjects/kalkulator/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dawid/AndroidStudioProjects/kalkulator/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1935" />
       </map>
     </option>
   </component>
