@@ -16,25 +16,25 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="15dp"
-        android:layout_marginTop="11dp"
-        android:layout_marginEnd="2dp"
-        android:layout_marginBottom="685dp"
+        android:layout_marginTop="33dp"
+        android:layout_marginEnd="19dp"
+        android:layout_marginBottom="663dp"
         android:textAlignment="textEnd"
-        android:textColor="@color/royalblue"
+        android:textColor="@color/gray"
         android:textSize="20dp" />
 
     <TextView
         android:id="@+id/result_tv"
-        android:layout_width="389dp"
-        android:layout_height="99dp"
+        android:layout_width="396dp"
+        android:layout_height="92dp"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="15dp"
         android:layout_marginTop="15dp"
         android:layout_marginEnd="15dp"
-        android:layout_marginBottom="499dp"
+        android:layout_marginBottom="509dp"
         android:text="0"
         android:textAlignment="textEnd"
-        android:textColor="@color/royalblue"
+        android:textColor="@color/yellow"
         android:textSize="34dp" />
 
     <LinearLayout
@@ -49,11 +49,11 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="88dp"
+        android:layout_height="98dp"
 
         android:layout_alignParentBottom="true"
         android:layout_marginTop="195dp"
-        android:layout_marginBottom="400dp"
+        android:layout_marginBottom="402dp"
 
         android:orientation="horizontal">
 
@@ -69,13 +69,14 @@
             android:textSize="32dp"
             app:cornerRadius="36dp" />
 
+
         <com.google.android.material.button.MaterialButton
             android:id="@+id/button_open_bracket"
             style="@style/Widget.MaterialComponents.ExtendedFloatingActionButton"
             android:layout_width="72dp"
             android:layout_height="72dp"
             android:layout_margin="13dp"
-            android:backgroundTint="@color/green"
+            android:backgroundTint="@color/orangered"
             android:text="("
             android:textColor="@color/white"
             android:textSize="32dp"
@@ -99,7 +100,7 @@
             android:layout_width="72dp"
             android:layout_height="72dp"
             android:layout_margin="13dp"
-            android:backgroundTint="@color/tomato"
+            android:backgroundTint="@color/magenta"
             android:text="*"
             android:textColor="@color/white"
             android:textSize="32dp"
@@ -339,7 +340,7 @@
             android:layout_marginTop="13dp"
             android:layout_marginEnd="13dp"
             android:layout_marginBottom="13dp"
-            android:backgroundTint="@color/lime"
+            android:backgroundTint="@color/yellowgreen"
             android:text="."
             android:textColor="@color/white"
             android:textSize="32dp"
@@ -351,7 +352,7 @@
             android:layout_width="72dp"
             android:layout_height="72dp"
             android:layout_margin="13dp"
-            android:backgroundTint="@color/aqua"
+            android:backgroundTint="@color/red"
             android:text='='
             android:textColor="@color/white"
             android:textSize="32dp"
